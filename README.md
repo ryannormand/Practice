@@ -1,2 +1,2 @@
 # Practice
-# Test file for exploring & figuring out GITHUB functionality
+Test file for exploring & figuring out GITHUB functionality
