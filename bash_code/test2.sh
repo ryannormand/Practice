@@ -6,7 +6,7 @@ MAX=$1
 #make sure that the user has actually set an input value... if not then exit script. Check man test for mor info on if statement conditionals
 if [ -z $1 ]
 then
-  printf "This program checks to see what numbers the input is divisible by.\nIf the input is prime, then the output will say it is prime.\nPlease enter an integer value after the filename so the program can run."
+  printf "This program checks to see what numbers the input is divisible by.\nIf the input is prime, then the output will say it is prime.\nPlease enter an integer value after the filename so the program can run.\n"
   exit
 fi
 
