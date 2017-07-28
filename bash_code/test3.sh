@@ -4,6 +4,6 @@
 
 for i in $(seq 0 1 10)
 do
-  echo "${i} is the number"
+  echo "${i} is your number"
 done
 
